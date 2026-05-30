@@ -9,4 +9,6 @@
 - ✅ xUnit - Test framework;
 - ✅ Git - Version Control;
 - ✅ Postgre, MSSQL, MySql, Oracle, SQLite - DBMS;
-- ✅ Others - MediatR, Polly, Quartz, FluentValidation, Serilog.
+- ✅ Kafka - Brokers;
+- ✅ Others - MediatR, Polly, Quartz, FluentValidation, Serilog;
+- ✅ Unity 6 - GameEngine.
